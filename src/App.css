@@ -1,0 +1,18 @@
+/* Filename: App.css */
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.helloworld,
+.keyupprint,
+.showhide,
+.priceqty,
+.increment,
+.movietmdb,
+.cloneincrement {
+	/* display: flex; */
+	margin-left: 260px;
+	font-size: 2rem;
+}
